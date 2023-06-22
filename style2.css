@@ -1,0 +1,25 @@
+@media screen and (max-width:991px) {
+.head2{
+         margin-left: 150px;
+      }
+}
+
+@media screen and (max-width: 804px) {
+.head2 {
+        font-size: 30px;
+        margin-left: 30px;
+    }
+.sub-footer-container {
+    font-size: 10px;
+}
+}
+
+@media screen and (max-width: 479px) {
+    .head2{
+        font-size: 25px;
+        margin-left: 30px;
+    }
+    .sub-footer-container{
+        font-size: 10px;
+    }
+}
